@@ -4,6 +4,8 @@
 
 <strong>Supports MySQL</strong>
 <br><br>
+<strong>Requires .NET 6</strong>
+<br><br>
 Run the SQL script or create database based on the connection string and models.
 <br><br>
 Change the ```User``` and ```Password``` fields in ```appsettings.json``` to match your local database user information.
